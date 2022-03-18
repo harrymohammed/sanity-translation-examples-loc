@@ -5,6 +5,7 @@ export const languages = [
   { name: 'no', title: 'Norwegian' },
   { name: 'es', title: 'Spanish' },
   { name: 'fr', title: 'French' },
+  { name: 'ar', title: 'Arabic' },
 ];
 
 export const baseLanguage = languages[0]
